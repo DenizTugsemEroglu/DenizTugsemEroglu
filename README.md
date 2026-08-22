@@ -1,6 +1,6 @@
 Hi, I'm Deniz Tuğsem Eroğlu.
 
-I am a 2nd year Electrical and Electronics Engineering student at Manisa Celal Bayar University.  
+I am a 3rd year Electrical and Electronics Engineering student at Manisa Celal Bayar University.  
 I am currently focusing on embedded systems, PLC applications, and automotive-related technologies.  
 I enjoy building, testing, and learning practical engineering tools while continuing my undergraduate education.
 
